@@ -65,9 +65,7 @@ journalctl -b | grep printk
 
 ## Execution
 
+SSH (Secure Shell) is a network protocol that enables secure remote connections between two computers over an insecure network. Using SSH with RPi allowed me to write programs directly from my host computer, so it saved my efforts of switching between my host computer to RPi5 for display and keyboard.
+
 [[vscodessh]]
 [[terminalssh]]
-
-## First Module
-
-[[hello.c]]
